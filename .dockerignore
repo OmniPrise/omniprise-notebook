@@ -1,0 +1,3 @@
+# Don't include README.md or contents of test in Docker Image
+README.md
+test
