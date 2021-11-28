@@ -23,6 +23,7 @@ RUN mamba install --quiet --yes \
     'geopandas' \
     'matplotlib-base' \
     'numpy' \
+    'openpyxl' \
     'pandas' \
     'scikit-learn' \
     'scipy' \
